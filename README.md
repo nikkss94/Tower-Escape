@@ -10,4 +10,4 @@ Single-player игра. Целта е да стигнете до вратата,
 
 Играта работи както под Windows, така и под Linux.
 
-![alt tag] (file:///C:/Users/nikolina.todorova/Desktop/levels.png)
+
